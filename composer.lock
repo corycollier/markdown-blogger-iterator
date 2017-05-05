@@ -12,12 +12,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/corycollier/markdown-blogger.git",
-                "reference": "33f313e3466a4c2bf924960dac250b6969835bd4"
+                "reference": "111553ec6be90c5af4af47909fb67ee176dc0ec0"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/corycollier/markdown-blogger/zipball/33f313e3466a4c2bf924960dac250b6969835bd4",
-                "reference": "33f313e3466a4c2bf924960dac250b6969835bd4",
+                "url": "https://api.github.com/repos/corycollier/markdown-blogger/zipball/111553ec6be90c5af4af47909fb67ee176dc0ec0",
+                "reference": "111553ec6be90c5af4af47909fb67ee176dc0ec0",
                 "shasum": ""
             },
             "require": {
@@ -46,7 +46,7 @@
                 }
             ],
             "description": "Create a blog, only run by markdown pages",
-            "time": "2017-03-30 01:06:17"
+            "time": "2017-05-05 15:52:22"
         },
         {
             "name": "erusev/parsedown",
