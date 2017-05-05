@@ -18,7 +18,7 @@
     },
     "autoload": {
         "psr-4": {
-            "MarkdownBlogger\\Iterator\\": "src/"
+            "MarkdownBlogger\\Plugin\\": "src/"
         }
     },
     "require-dev": {
